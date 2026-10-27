@@ -1,0 +1,7 @@
+      PID    PPID    PGID     WINPID   TTY         UID    STIME COMMAND
+     1204     815    1204       1928  cons2     197609 19:04:18 /usr/bin/PS
+      813       1     813      13580  cons1     197609 17:53:55 /usr/bin/bash
+      949     813     949       7468  cons1     197609 18:09:31 /usr/bin/bash
+      957     949     949       2096  cons1     197609 18:09:32 /c/Program Files/nodejs/node
+      814       1     814       2920  cons0     197609 17:53:55 /usr/bin/bash
+      815       1     815      11988  cons2     197609 17:53:55 /usr/bin/bash
